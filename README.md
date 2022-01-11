@@ -66,6 +66,6 @@ I need to improve my project building skills. Cause I had a target of building t
 - LinkedIn - [Abdur Rahaman](https://www.linkedin.com/in/abdur-rahaman-arb4/)
 - Frontend Mentor - [@arbaiv](https://www.frontendmentor.io/profile/arbaiv)
 - Github - [@arbaiv](https://github.com/arbaiv)
-- Instagram - [@arbaiv_coder](https://www.instagram.com/arb4_coder/)
+- Instagram - [@arbaiv_coder](https://www.instagram.com/arbaiv_coder/)
 - Facebook - [Abdur Rahaman](https://www.facebook.com/people/Abdur-Rahaman/100052283355364/)
 - Phone Number - [Country: Bangladesh](+8801775575562)
