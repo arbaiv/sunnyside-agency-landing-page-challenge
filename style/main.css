@@ -506,6 +506,9 @@
     #contact-button:hover a{
         color: #FFFFFF;
     }
+    #hero-text-sec h1 {
+        font-size: 3.5rem;
+    }
     /* About sec */
     .about {
         flex-flow: row nowrap;
